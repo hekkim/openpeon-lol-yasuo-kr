@@ -1,0 +1,164 @@
+{
+  "cesp_version": "1.0",
+  "name": "lol_yasuo_kr",
+  "display_name": "야스오 (League of Legends, 한국어)",
+  "version": "1.0.0",
+  "description": "League of Legends Yasuo (야스오) Korean voice lines",
+  "author": {
+    "name": "heecheonkim",
+    "github": "hekkim"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ko",
+  "tags": [
+    "gaming",
+    "league-of-legends",
+    "riot",
+    "korean",
+    "yasuo"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoStoryNotOver_KR.wav",
+          "label": "이야긴 아직 끝나지 않았어.",
+          "sha256": "a3189d631b485b6424d47e609521d31fc74c5e1ea90ee2aaefd1d5b4431bd210"
+        },
+        {
+          "file": "sounds/YasuoWandererNotLost_KR.wav",
+          "label": "방랑자라고 길을 잃은 건 아니지.",
+          "sha256": "cf5c4398971123bcf2fc5e05889e50bf3662078b6c3d730976b59bee598e6873"
+        },
+        {
+          "file": "sounds/YasuoMyFate_KR.wav",
+          "label": "내 운명은 내가 정해.",
+          "sha256": "47ce6a1f1847bf7d8102ce4934b61def8c49e70f68ff9601783a346f9145221e"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoToTheEnd_KR.wav",
+          "label": "이 길 끝까지 간다.",
+          "sha256": "81045fa0ba3b66c8ebf5ec94fa939a2a2200f4e5f7d779cc5461a5afc05aa204"
+        },
+        {
+          "file": "sounds/YasuoOneStepAhead_KR.wav",
+          "label": "과거보다 한 발 앞서 나간다.",
+          "sha256": "bc795e3e66ec11033fe5660dd69869fc78b545b995789843ca215837219107af"
+        },
+        {
+          "file": "sounds/YasuoFollowTheWind_KR.wav",
+          "label": "바람을 따르되 뒤를 조심해라.",
+          "sha256": "4ba14530a47969ebab1788cc171cb45eee2426a671e7c7e1cf52e667cfbd33f7"
+        },
+        {
+          "file": "sounds/YasuoNoMoreRunning_KR.wav",
+          "label": "더 이상 도망치지 않는다.",
+          "sha256": "fab956de829656a36bbfdd51c5f3ce703433c20fc13f2417817d238fb0f1f74a"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoSwordFirst_KR.wav",
+          "label": "검이 최우선이지.",
+          "sha256": "1b1f775ede2cb0d563b9b42dc3f59c3638b6fdf7981902f7198971b584bb56b0"
+        },
+        {
+          "file": "sounds/YasuoNeverGetsOld_KR.wav",
+          "label": "싸움은 해도 해도 질리질 않는다니까.",
+          "sha256": "e96332604ee8695149d5cf767d9af7be2a38869b243c762446289742fdecdf9d"
+        },
+        {
+          "file": "sounds/YasuoNotBad_KR.wav",
+          "label": "그럴싸한데.",
+          "sha256": "ab94b3352b212bc159edb6e0f9ccb55798814391176ec9e4097aac55a93e2841"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoOneMistake_KR.wav",
+          "label": "한 번 실수하면 그걸로 끝이다.",
+          "sha256": "b0320c870e6b65d6ec0bda22778c3e07fea6bbd35e9fc0790ad5699a3cb201de"
+        },
+        {
+          "file": "sounds/YasuoQuickRuin_KR.wav",
+          "label": "사람 하나 망가지는 거 순식간이지.",
+          "sha256": "363191dbb990a217c5c3243b76218700ce02ca519c27a489014c3c444ab8d996"
+        },
+        {
+          "file": "sounds/YasuoNotYet_KR.wav",
+          "label": "아직 죽긴 이르다.",
+          "sha256": "619e0dd15e052533a7d0a1d29774c40e4044c260fde333692002374a682d37c0"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoWhoTaughtYou_KR.wav",
+          "label": "누구한테 배운 거지?",
+          "sha256": "4f1f142b22ba1807178531a747fbab670c2cb89e791f8b3dbe2b272048701471"
+        },
+        {
+          "file": "sounds/YasuoWait_KR.wav",
+          "label": "잠깐...",
+          "sha256": "679c96d89cf4fb28000ae2c17571f5daae15369444d214251513a34d88d3a3f0"
+        },
+        {
+          "file": "sounds/YasuoBroughtFriends_KR.wav",
+          "label": "친구들은 좀 데려왔겠지?",
+          "sha256": "7ce204b139e57840ff74e3eec984527256ad7e66bf8b82dde46cc8d2bdeb692b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoHeavySword_KR.wav",
+          "label": "이 칼, 정말 지겹도록 무겁군.",
+          "sha256": "43738ccae6480dd431c6abd44d76dfe88f0d319084887ce85254b216dae8f60d"
+        },
+        {
+          "file": "sounds/YasuoCantStayLong_KR.wav",
+          "label": "한 곳에 오래 머무를 수 없는 몸.",
+          "sha256": "6df162a0d4a3f1d2f74ba64d8b59f320cdf06ea85f2af13625c6f29d54d2b346"
+        },
+        {
+          "file": "sounds/YasuoNoTomorrow_KR.wav",
+          "label": "그 누구도 내일을 기약할 수는 없는 법.",
+          "sha256": "e2b13546b2ed5ef89f1d7080428916d8aacbd2150a40bf60bef2f029379179a3"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/YasuoNeverTire_KR.wav",
+          "label": "지치지도 않고 덤벼드는군.",
+          "sha256": "87140b1934881f55f36ecfcd4ee62574fc9e11be9cb6c9dc7bce37e6febdd0ae"
+        },
+        {
+          "file": "sounds/YasuoComeAtMe_KR.wav",
+          "label": "빨리 덤벼, 덤벼 봐. 끝은 내가 내겠지만.",
+          "sha256": "3d3589d1edc71b6598714ab9e8bcaa40a65698321e595c85c5f5b1c14d7d81cb"
+        }
+      ]
+    }
+  },
+  "category_aliases": {
+    "greeting": "session.start",
+    "acknowledge": "task.acknowledge",
+    "complete": "task.complete",
+    "error": "task.error",
+    "permission": "input.required",
+    "resource_limit": "resource.limit",
+    "annoyed": "user.spam"
+  }
+}
